@@ -9,8 +9,10 @@ Splanchnic Nerve Chromaffin Cell Model
    Please contact arunanan@umich.edu for aditional details.
 
    Model originally created on     22 April 2020
+   
    Model last modfied on           28 August 2020
    
    Developed by         Arun Anantharam
+   
                         Noah Schenk
 
