@@ -13,6 +13,5 @@ Splanchnic Nerve Chromaffin Cell Model
    Model last modfied on           28 August 2020
    
    Developed by         Arun Anantharam
-   
-                        Noah Schenk
+                        & Noah Schenk
 
