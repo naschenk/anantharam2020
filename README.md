@@ -1,5 +1,5 @@
 # anantharam2020
-Splanchnic Nerve Chromaffin Cell Model
+Splanchnic Nerve Chromaffin Cell Model 
 
 %   This model simulates the electrophysiology of a single splanchnic nerve
 %   - chromaffin cell synapse.  This model incorporates selected voltage gated Na, K and Ca
